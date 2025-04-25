@@ -1,14 +1,13 @@
 # 👋 Hi Guys! I'm Amirul Aiman Mohsin
 **Software Engineer | Problem Solver | QA Engineer**
   
-📫 **Reach me**: [Email](mailto:aimanmoh020213@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amirulaimanmohsin)  
+📫 **Lets Connect**: [Email](mailto:aimanmoh020213@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amirulaimanmohsin) 
 
 ---
 
 ### **About Me**  
 - 🎓 **Computer Science (Software Engineering)** Graduate from **University of Malaya** (CGPA: 3.75).  
-- 🔭 Passionate about **Full-Stack Development, Automation and Machine Learning**.  
-- 🏆 **Award-winning** Bronze Medal at Software Engineering Innovation Day, Top 10 in ML Project.
+- 🔭 Passionate about **Full-Stack Development, Automation and Machine Learning**. 
 
 ---
 
