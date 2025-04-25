@@ -3,11 +3,14 @@
   
 📫 **Lets Connect**: [Email](mailto:aimanmoh020213@gmail.com) | [LinkedIn](https://www.linkedin.com/in/amirulaimanmohsin) 
 
+[//]: #![Amirul](https://github.com/SoftwareMaintenanceEvolution/tutorial-1-Mirullmohsin/blob/profile-upload/2140124-2048x1152-desktop-hd-headphones-wallpaper-image.jpg?raw=true)
+
 ---
 
 ### **About Me**  
 - 🎓 **Computer Science (Software Engineering)** Graduate from **University of Malaya** (CGPA: 3.75).  
-- 🔭 Passionate about **Full-Stack Development, Automation and Machine Learning**. 
+- 🔭 Passionate about **Full-Stack Development, Automation and Machine Learning**.
+- 📚 Always open for continous learning and expand my skills 
 
 ---
 
